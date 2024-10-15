@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tfar22
 - 👀 I’m interested in Data Analytics, Sabermetrics, and Stats!
-- 🌱 I’m currently learning SQL.
 - 💞️ I’m looking to collaborate on sabermetrics jobs!
 - 📫 How to reach me thomasfarley01@gmail.com
 
